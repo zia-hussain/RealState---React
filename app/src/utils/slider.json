@@ -1,38 +1,38 @@
 [
-    {
-      "name": "Aliva Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+  {
+      "name": "Ocean View Apartments",
+      "price": "75,00k",
+      "detail": "Sea View Road, Clifton, Karachi",
       "image": "./r1.png"
-    },
-    {
-      "name": "Asatti Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+  },
+  {
+      "name": "Pearl Heights",
+      "price": "90,00k",
+      "detail": "Bath Island, Karachi",
       "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+  },
+  {
+      "name": "Green Valley Residency",
+      "price": "55,00k",
+      "detail": "Main Gulshan-e-Iqbal Road, Gulshan, Karachi",
       "image": "./r3.png"
-    },
-    {
-      "name": "Aliva Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
-    },
-    {
-      "name": "Asatti Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
-    }
-  ]
+  },
+  {
+      "name": "Sunset Apartments",
+      "price": "80,00k",
+      "detail": "Clifton Block 5, Karachi",
+      "image": "./phase2.jpeg"
+  },
+  {
+      "name": "Golden Homes",
+      "price": "65,00k",
+      "detail": "PECHS, Karachi",
+      "image": "./r5.jpg"
+  },
+  {
+      "name": "City Lights Residences",
+      "price": "70,00k",
+      "detail": "Tariq Road, Karachi",
+      "image": "./r6.jpg    "
+  }
+]
