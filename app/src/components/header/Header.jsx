@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <section className="h-wrapper">
       <div
-        className="flexCenter paddings innerWidth h-container"
+        className="flexCenter innerWidth h-container"
         style={{ justifyContent: "space-between" }}
       >
         <img src="../../../public/logo.png" alt="" width={100} />

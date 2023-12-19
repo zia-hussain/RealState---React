@@ -1,10 +1,10 @@
 .h-wrapper{
-    background: var(--black);
     color: #fff;
 }
 .h-container{
     padding-top: 1rem;
     padding-bottom:1rem ;
+    padding-inline: 1rem;
     color: var(--secondary);
 }
 .h-menu{
