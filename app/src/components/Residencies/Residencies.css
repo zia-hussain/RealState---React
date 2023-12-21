@@ -66,7 +66,7 @@
     color: var(--blue);
     background: white;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 50px;
     transition: all 0.1s ease-in;
     z-index: 8799898;
   }
